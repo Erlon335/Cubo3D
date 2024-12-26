@@ -6,10 +6,8 @@ Conversor de Unidades C
     Conversor de Unidades em Linguagem C
 </h3>
 
-
-
 <h4 align="center">
-	🚧   Concluído 🚀 🚧
+	🚧  Em Andamento 🚀 🚧
 </h4>
 
 Tabela de conteúdos
@@ -57,33 +55,6 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 - [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
   - [x] navegar pelo mapa para ver as instituições cadastradas
   - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
-
----
-
-## 🎨 Layout
-
-O layout da aplicação está disponível no Figma:
-
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-
-
-### Mobile
-
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
-</p>
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
-</p>
 
 ---
 
