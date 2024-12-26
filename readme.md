@@ -15,14 +15,15 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-funcionalidades)
+   * [Layout Repositorio Github](#-layout-repositorio-github)
+   * [Funcionalidades](#-Funcionalidades)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#-pré-requisitos)
    * [Tecnologias](#-tecnologias)
+     * [Websites](#-websites)
      * [Utilitarios](#user-content-server--nodejs----typescript)
    * [Contribuidores](#-contribuidores)
    * [Licença](#-licença)
-   * [Agradecimentos](#-agradecimentos)
 <!--te-->
 
 ---
@@ -31,26 +32,66 @@ Tabela de conteúdos
 
 O Conversor de Unidades feito em Linguagem C, é um sistema teste desenvolvido para fixação e experimentação do conteúdo proposto pelo curso.
 
-O sistema busca a conversão de uma unidade de medida em outras.
+O sistema utiliza a conversão de uma unidade de medida em outras atraves de interação com Usuários.
 
 Projeto desenvolvido durante o curso de Formação Básica em Software Embarcado oferecido pela [Embarcatech](https://embarcatech.softex.br).
 A Formação Básica em Software Embarcado da Embarcatech é um programa de capacitação profissional técnica destinado a alunos de nível superior e técnico em Tecnologias da Informação e Comunicação (TIC) e áreas correlatas, focado em tecnologias de Sistemas Embarcados.
 
 ---
 
+## 🎨 Layout Repositorio Github
+
+/conversor_de_unidades_C
+- main.c
+- Makefile
+- License.md
+- README.md
+- .gitignore
+- unidades/
+    - area/
+      - area.c
+      - area.h
+    - comprimento/
+      - comprimento.c
+      - comprimento.h
+    - dados/
+      - dados.c
+      - dados.h
+    - massa/
+      - massa.c
+      - massa.h
+    - potencia/
+      - potencia.c
+      - potencia.h
+    - temperatura/
+      - temperatura.c
+      - temperatura.h    
+    - tempo/
+      - tempo.c
+      - tempo.h
+    - velocidade/
+      - velocidade.c
+      - velocidade.h
+    - volume/
+      - volume.c
+      - volume.h
+
+---
+
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
-  - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
+- [x] Interação com Usuário
+- [x] Conversão de Unidades de Medidas em:
+    - Área (metros, centímetros)
+    - Comprimento (milimetros, centímetros ,metros, quilometros)
+    - Dados (valor, bits, bytes, kilobytes, gigabytes, terabytes, megabytes)
+    - Massa (gramas, kilogramas, Toneladas)
+    - Potência 
+    - Temperatura (celsius, fahrenheit, kelvin)
+    - Tempo (segundos, minutos, horas)
+    - Velocidade (metrosPorSegundo)
+    - Volume (milimetros, litros, metros Cubicos)
+
 ---
 
 ## 🚀 Como executar o projeto
@@ -65,7 +106,7 @@ Este projeto é divido em três partes:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [C,C++](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [GCC compilador](https://gcc.gnu.org).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o Backend (servidor)
@@ -101,12 +142,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Websites**
 -   **[Visual Studio code](https://code.visualstudio.com)**
 -   **[Github](https://github.com)**
--   **[GCC compilador](https://gcc.gnu.org)**
 
 
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+#### **Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) e [C/C++ Compile Run](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)**
+-   **[Git](https://git-scm.com)**
+-   **[GCC compilador](https://gcc.gnu.org)**
 
 
 ---
@@ -140,10 +182,3 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 Este projeto está sob a licença do SUBGRUPO 3 e seu Lider de Projeto da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C/blob/main/License.md">License.md<a/>
 
 ---
-
-## 🎁 Agradecimentos
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
