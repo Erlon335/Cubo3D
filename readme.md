@@ -31,8 +31,8 @@ Tabela de conteúdos
 ♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante o curso de Formação Básica em Software Embarcado oferecido pela [Embarcatech](https://embarcatech.softex.br).
+A Formação Básica em Software Embarcado da Embarcatech é um programa de capacitação profissional técnica destinado a alunos de nível superior em Tecnologias da Informação e Comunicação (TIC) e áreas correlatas, focado em tecnologias de Sistemas Embarcados.
 
 ---
 
@@ -169,19 +169,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 👨‍💻 Contribuidores
 
-GRUPO1, SUBGRUPO 3 da Embarcatech
+GRUPO1, SUBGRUPO 3 da Embarcatech <br/>
 Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86336670?v=4" width="100px;" alt=""/><br/><a href="https://github.com/ferreiramateusalencar">Mateus A. Ferreira<a/><br/><sub>Contribuição: Interface de usuário<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Lider do Projeto">👨‍🚀</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/180613216?v=4" width="100px;" alt=""/><br/><a href="https://github.com/Erlon335">Érlon S. A. Neto<a/><br/><sub>Contribuição: readme.md<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113399464?v=4" width="100px;" alt=""/><br/><a href="https://github.com/Leo-Luz-code">Leornado R. Luz<a/><br/><sub>Contribuição: Unidades 5 e 9<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/112970376?v=4" width="100px;" alt=""/><br/><a href="https://github.com/Dyeorn">João Pedro Jacó<a/><br/><sub>Contribuição: Unidades 1 e 7<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/128985376?v=4" width="100px;" alt=""/><br/><a href="https://github.com/jotave8">Jonathan M. da Silva<a/><br/><sub>Contribuição: Unidade 6<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/86336670?v=4" width="100px;"/><br/><a href="https://github.com/ferreiramateusalencar">Mateus A. Ferreira<a/><br/><sub>Contribuição: Interface de usuário<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Lider do Projeto">👨‍🚀</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/180613216?v=4" width="100px;"/><br/><a href="https://github.com/Erlon335">Érlon S. A. Neto<a/><br/><sub>Contribuição: readme.md<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113399464?v=4" width="100px;"/><br/><a href="https://github.com/Leo-Luz-code">Leornado R. Luz<a/><br/><sub>Contribuição: Unidades 5 e 9<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/112970376?v=4" width="100px;"/><br/><a href="https://github.com/Dyeorn">João Pedro Jacó<a/><br/><sub>Contribuição: Unidades 1 e 7<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/128985376?v=4" width="100px;"/><br/><a href="https://github.com/jotave8">Jonathan M. da Silva<a/><br/><sub>Contribuição: Unidade 6<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
   </tr>
   <tr>
-     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/178435161?v=4" width="100px;" alt=""/><br/><a href="https://github.com/lauracruzz">Laura B. da Cruz<a/><br/><sub>Contribuição: ?<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
+     <td align="center"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/178435161?v=4" width="100px;"/><br/><a href="https://github.com/lauracruzz">Laura B. da Cruz<a/><br/><sub>Contribuição: ?<sub/><br/><a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C" title="Integrante">🌐</a></td>
   </tr>
 </table>
 
@@ -190,4 +190,4 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 
 ## 📄 Licença
 
-Este projeto está sob a licença do SUBGRUPO 3 da EmbarcaTech - Veja o arquivo <a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C/blob/main/License.md">License.md<a/>
+Este projeto está sob a licença do SUBGRUPO 3 e seu Lider de Projeto da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/ferreiramateusalencar/Conversor-de-Unidades-C/blob/main/License.md">License.md<a/>
